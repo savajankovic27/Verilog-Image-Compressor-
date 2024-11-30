@@ -1,4 +1,4 @@
-## COE3DQ5 project
+## Verilog Image Compressor
 
 ### Objective
 
@@ -15,6 +15,4 @@ In terms of verification, there are two main additions: a software model of the 
 * Attend the forthcoming classes because they are focused almost exclusively on the project (conceptual understanding, main challenges, thought process, design decisions, verification plan, ...)
 * If needed, any updates, changes, revisions, ... will be communicated to the entire class in due time
 
-### Evaluation
 
-Push your source code and the 4-page report in GitHub before Monday November 25 at 11 pm. The report should be in PDF format and should be placed in the `doc` sub-folder. Further details concerning the expectations for the project report and the cross-examinations in the week of November 25 will be provided in due time.
